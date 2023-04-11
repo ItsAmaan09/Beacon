@@ -1,0 +1,34 @@
+// @import './custom-theme';
+@import "/node_modules/bootstrap/scss/functions";
+@import "/node_modules/bootstrap/scss/variables";
+
+// scss-docs-start theme-color-variables
+
+$theme-colors: (
+  "primary": $primary,
+  "secondary": $secondary,
+);
+$primary: black;
+$secondary: #fb9f58;
+
+// $nav-tabs-border-color:             $secondary;
+// $nav-tabs-border-width:             none;
+// $nav-tabs-border-radius:            none;
+// $nav-tabs-link-hover-border-color:  $primary;
+// $nav-tabs-link-active-color:        $primary;
+// $nav-tabs-link-active-bg:           none;
+// $nav-tabs-link-active-border-color: none;
+
+//nav tabs
+$nav-tabs-border-color: transparent;
+$nav-tabs-border-width: 7px;
+$nav-tabs-border-radius: $border-radius-lg;
+$nav-tabs-link-hover-border-color: transparent;
+$nav-tabs-link-active-color: $primary;
+$nav-tabs-link-active-bg: transparent;
+$nav-tabs-link-active-border-color: transparent;
+
+$nav-link-font-size: 1rem;
+$nav-link-font-weight: 500;
+$nav-link-color: $secondary;
+$nav-link-hover-color: $primary;

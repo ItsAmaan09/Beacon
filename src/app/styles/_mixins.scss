@@ -1,0 +1,23 @@
+@mixin btn1(
+  $color,
+  $font-size,
+  $font-weight,
+  $border,
+  $padding,
+  $background,
+  $border-radius,
+  $font-family
+) {
+  color: $color;
+  font-size: $font-size;
+  font-weight: $font-weight;
+  border: $border;
+  padding: $padding;
+  background-color: $background;
+  border-radius: $border-radius;
+  font-family: $font-family;
+  text-transform: uppercase;
+  // &:hover{
+  //     background-color: #ff4949;
+  // }
+}

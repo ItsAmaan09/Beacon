@@ -1,0 +1,341 @@
+// @font-face {
+//     font-family: 'Noto Sans KR', sans-serif;
+//     src: url('/src/assets/fonts/notosanskr-black-webfont.woff2') format('woff2'),
+//          url('/src/assets/fonts/notosanskr-black-webfont.woff') format('woff');
+//     font-weight: 600;
+//     font-style: normal;
+
+// }
+
+// @font-face {
+//     font-family: 'Noto Sans KR', sans-serif;
+//     src: url('/src/assets/fonts/notosanskr-bold-webfont.woff2') format('woff2'),
+//          url('/src/assets/fonts/notosanskr-bold-webfont.woff') format('woff');
+//     font-weight: 500;
+//     font-style: normal;
+
+// }
+
+// @font-face {
+//     font-family: 'Noto Sans KR', sans-serif;
+//     src: url('/src/assets/fonts/notosanskr-light-webfont.woff2') format('woff2'),
+//          url('/src/assets/fonts/notosanskr-light-webfont.woff') format('woff');
+//     font-weight: 200;
+//     font-style: normal;
+
+// }
+
+// @font-face {
+//     font-family: 'Noto Sans KR', sans-serif;
+//     src: url('/src/assets/fonts/notosanskr-medium-webfont.woff2') format('woff2'),
+//          url('/src/assets/fonts/notosanskr-medium-webfont.woff') format('woff');
+//     font-weight: 300;
+//     font-style: normal;
+
+// }
+
+// @font-face {
+//     font-family: 'Noto Sans KR', sans-serif;
+//     src: url('/src/assets/fonts/notosanskr-regular-webfont.woff2') format('woff2'),
+//          url('/src/assets/fonts/notosanskr-regular-webfont.woff') format('woff');
+//     font-weight: 400;
+//     font-style: normal;
+
+// }
+
+// @font-face {
+//     font-family: 'Noto Sans KR', sans-serif;
+//     src: url('/src/assets/fonts/notosanskr-thin-webfont.woff2') format('woff2'),
+//          url('/src/assets/fonts/notosanskr-thin-webfont.woff') format('woff');
+//     font-weight: 100;
+//     font-style: normal;
+
+// }
+
+// @font-face {
+//     font-family: 'Montserrat';
+//     src: url('/src/assets/fonts/Montserrat-Black.woff') format('woff');
+//     font-weight: 900;
+//     font-style: normal;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Montserrat';
+//     src: url('/src/assets/fonts/Montserrat-BlackItalic.woff') format('woff');
+//     font-weight: 900;
+//     font-style: italic;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Montserrat';
+//     src: url('/src/assets/fonts/Montserrat-Bold.woff') format('woff');
+//     font-weight: bold;
+//     font-style: normal;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Montserrat';
+//     src: url('/src/assets/fonts/Montserrat-ExtraLightItalic.woff') format('woff');
+//     font-weight: 200;
+//     font-style: italic;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Montserrat';
+//     src: url('/src/assets/fonts/Montserrat-ExtraBold.woff') format('woff');
+//     font-weight: bold;
+//     font-style: normal;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Montserrat';
+//     src: url('/src/assets/fonts/Montserrat-ExtraLight.woff') format('woff');
+//     font-weight: 200;
+//     font-style: normal;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Montserrat';
+//     src: url('/src/assets/fonts/Montserrat-ExtraBoldItalic.woff') format('woff');
+//     font-weight: bold;
+//     font-style: italic;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Montserrat';
+//     src: url('/src/assets/fonts/Montserrat-BoldItalic.woff') format('woff');
+//     font-weight: bold;
+//     font-style: italic;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Montserrat';
+//     src: url('/src/assets/fonts/Montserrat-Italic.woff') format('woff');
+//     font-weight: normal;
+//     font-style: italic;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Montserrat';
+//     src: url('/src/assets/fonts/Montserrat-Light.woff') format('woff');
+//     font-weight: 300;
+//     font-style: normal;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Montserrat';
+//     src: url('/src/assets/fonts/Montserrat-Medium.woff') format('woff');
+//     font-weight: 500;
+//     font-style: normal;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Montserrat';
+//     src: url('/src/assets/fonts/Montserrat-SemiBold.woff') format('woff');
+//     font-weight: 600;
+//     font-style: normal;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Montserrat';
+//     src: url('/src/assets/fonts/Montserrat-MediumItalic.woff') format('woff');
+//     font-weight: 500;
+//     font-style: italic;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Montserrat';
+//     src: url('/src/assets/fonts/Montserrat-Regular.woff') format('woff');
+//     font-weight: normal;
+//     font-style: normal;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Montserrat';
+//     src: url('/src/assets/fonts/Montserrat-LightItalic.woff') format('woff');
+//     font-weight: 300;
+//     font-style: italic;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Montserrat';
+//     src: url('/src/assets/fonts/Montserrat-Thin.woff') format('woff');
+//     font-weight: 100;
+//     font-style: normal;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Montserrat';
+//     src: url('/src/assets/fonts/Montserrat-ThinItalic.woff') format('woff');
+//     font-weight: 100;
+//     font-style: italic;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Montserrat';
+//     src: url('/src/assets/fonts/Montserrat-SemiBoldItalic.woff') format('woff');
+//     font-weight: 600;
+//     font-style: italic;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Raleway';
+//     src: url('/src/assets/fonts/Raleway-Black.woff') format('woff');
+//     font-weight: 900;
+//     font-style: normal;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Raleway';
+//     src: url('/src/assets/fonts/Raleway-Bold.woff') format('woff');
+//     font-weight: bold;
+//     font-style: normal;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Raleway';
+//     src: url('/src/assets/fonts/Raleway-BlackItalic.woff') format('woff');
+//     font-weight: 900;
+//     font-style: italic;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Raleway';
+//     src: url('/src/assets/fonts/Raleway-ExtraLight.woff') format('woff');
+//     font-weight: 200;
+//     font-style: normal;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Raleway';
+//     src: url('/src/assets/fonts/Raleway-BoldItalic.woff') format('woff');
+//     font-weight: bold;
+//     font-style: italic;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Raleway';
+//     src: url('/src/assets/fonts/Raleway-ExtraLightItalic.woff') format('woff');
+//     font-weight: 200;
+//     font-style: italic;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Raleway';
+//     src: url('/src/assets/fonts/Raleway-ExtraBoldItalic.woff') format('woff');
+//     font-weight: bold;
+//     font-style: italic;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Raleway';
+//     src: url('/src/assets/fonts/Raleway-ExtraBold.woff') format('woff');
+//     font-weight: bold;
+//     font-style: normal;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Raleway';
+//     src: url('/src/assets/fonts/Raleway-Medium.woff') format('woff');
+//     font-weight: 500;
+//     font-style: normal;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Raleway';
+//     src: url('/src/assets/fonts/Raleway-Italic.woff') format('woff');
+//     font-weight: normal;
+//     font-style: italic;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Raleway';
+//     src: url('/src/assets/fonts/Raleway-Light.woff') format('woff');
+//     font-weight: 300;
+//     font-style: normal;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Raleway';
+//     src: url('/src/assets/fonts/Raleway-LightItalic.woff') format('woff');
+//     font-weight: 300;
+//     font-style: italic;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Raleway';
+//     src: url('/src/assets/fonts/Raleway-Regular.woff') format('woff');
+//     font-weight: normal;
+//     font-style: normal;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Raleway';
+//     src: url('/src/assets/fonts/Raleway-MediumItalic.woff') format('woff');
+//     font-weight: 500;
+//     font-style: italic;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Raleway';
+//     src: url('/src/assets/fonts/Raleway-SemiBold.woff') format('woff');
+//     font-weight: 600;
+//     font-style: normal;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Raleway';
+//     src: url('/src/assets/fonts/Raleway-SemiBoldItalic.woff') format('woff');
+//     font-weight: 600;
+//     font-style: italic;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Raleway';
+//     src: url('/src/assets/fonts/Raleway-Thin.woff') format('woff');
+//     font-weight: 100;
+//     font-style: normal;
+//     font-display: swap;
+// }
+
+// @font-face {
+//     font-family: 'Raleway';
+//     src: url('/src/assets/fonts/Raleway-ThinItalic.woff') format('woff');
+//     font-weight: 100;
+//     font-style: italic;
+//     font-display: swap;
+// }
