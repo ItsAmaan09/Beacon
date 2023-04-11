@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-pages',
   template: `
   <app-common>
-    <router-outlet></router-outlet>
+      <router-outlet></router-outlet>
   </app-common>
   `,
   styles: [
