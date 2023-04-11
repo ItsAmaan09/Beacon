@@ -8,6 +8,7 @@ import { PagesComponent } from './pages.component';
 import { CommonComponent } from '../core/common/common.component';
 import { HeaderComponent } from '../core/header/header.component';
 import { FooterComponent } from '../core/footer/footer.component';
+import { OurCoursesComponent } from './our-courses/our-courses.component';
 
 
 @NgModule({
@@ -17,7 +18,8 @@ import { FooterComponent } from '../core/footer/footer.component';
     FooterComponent,
     PagesComponent,
     AboutComponent,
-    ContactComponent
+    ContactComponent,
+    OurCoursesComponent
   ],
   imports: [
     CommonModule,
